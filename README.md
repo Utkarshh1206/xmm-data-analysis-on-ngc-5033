@@ -1,3 +1,16 @@
-# xmm-data-analysis-on-ngc-5033
-i have done data analysis  on ngc 5033 galaxy on two different obs id comparing its hardness ration,generating light curves and analysis using
-xspec model library
+
+# XMM-Newton X-ray Analysis of Galaxy NGC 5033
+
+📡 A data-driven exploration of the Seyfert galaxy **NGC 5033** using **XMM-Newton** observational data.  
+This project focuses on extracting and interpreting light curves and spectral characteristics to understand the galaxy's high-energy behavior.
+
+---
+
+## 🧪 Project Overview
+
+- **Object:** NGC 5033 (Seyfert 1.5 Galaxy)  
+- **Telescope:** XMM-Newton  
+- **Instruments Used:** EPIC-PN  
+- **Data Type:** X-ray event files (FITS format)  
+- **Software:** SAS (Science Analysis System), Python (Astropy, Matplotlib, NumPy)  
+- **Focus:** Light curve extraction, hardness ratio calculation, data visualization  
